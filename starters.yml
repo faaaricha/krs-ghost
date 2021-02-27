@@ -22,3 +22,5 @@
     - Offline Support
     - RSS Feed
     - Composable and extensible
+# /admin/config.yml
+publish_mode: editorial_workflow
